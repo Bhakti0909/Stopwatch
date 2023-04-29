@@ -25,7 +25,7 @@ window.onload = function(){
     }
   
 
-    // 4. onlick function for reser button
+    // 4. onlick function for reset button
     resetButton.onclick = function() {
         clearInterval(Interval);
         millisecondsVal = "00";
